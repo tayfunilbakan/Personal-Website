@@ -1,0 +1,186 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 100%;
+  background-color: #f7fbfc;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Bilbo Swash Caps', cursive;
+  font-size: 5.625rem;
+  color: #2d6187;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2rem;
+  color: #2d6187;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #40514E;
+}
+
+a {
+  font-family: 'Raleway', sans-serif;
+}
+
+#tayfun-sb {
+  filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+#tayfun-sb:hover {
+  filter: none;
+    -webkit-filter: grayscale(0);
+}
+
+#linkedin {
+  margin: 10px;
+}
+
+#instagram {
+  margin: 10px;
+}
+
+#github {
+  margin: 10px;
+}
+
+.profile{
+  margin-top: 80px;
+}
+
+.coding {
+      width: 35%;
+      float:left;
+}
+
+.developer {
+      width:35%;
+      float: right;
+}
+
+.main-p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.top-cont {
+  background-color: #f7fbfc;
+  position: relative;
+  padding-top: 50px;
+}
+
+
+.bottom-container {
+  margin-top: 35px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  background-color: #a8dda8;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.dotted-lines {
+  width: 10%;
+  border-width: 7.5px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a8dda8;
+  margin: 80px auto;
+}
+
+.hello {
+  width: 40%;
+  margin: auto;
+  line-height: 2;
+}
+
+.trademark {
+  font-size: 0.75rem;
+  font-family: 'Open Sans', sans-serif;
+  color: #f7fbfc;
+}
+.BUTTON_WTD {
+   -webkit-border-radius: 50px;
+   -moz-border-radius: 50px;
+   border-radius: 50px;
+   height: 5px;
+   line-height: 5px;
+   color: #F7FBFC;
+   font-family: 'Open Sans', sans-serif;
+   width: 78px;
+   font-size: 12px;
+   font-weight: 200;
+   margin-top: 25px;
+   padding: 14px;
+   background-color: #2D6187;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_WTD:hover {
+   background: #11999E;
+   border: outset rgba(51, 127, 237, 0.51) 0;
+   -webkit-border-radius: 50px;
+   -moz-border-radius: 50px;
+   border-radius: 50px;
+   text-decoration: none;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
